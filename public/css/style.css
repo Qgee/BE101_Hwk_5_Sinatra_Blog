@@ -1,4 +1,8 @@
 body{
-  background-color: #eee;
-  color: red;
+  margin-left: 100px;
+  margin-top:  100px;
+  background-color: #061f2f;  	/*this is a dark blue*/
+  color: #bbbbbb;				/*this is a lite grey*/
+  font-size: 20px;
+
 }
